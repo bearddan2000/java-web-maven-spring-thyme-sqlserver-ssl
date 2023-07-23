@@ -1,0 +1,7 @@
+spring.thymeleaf.cache=false
+spring.thymeleaf.mode=LEGACYHTML5
+spring.jpa.hibernate.ddl-auto=update
+spring.datasource.driverClassName=com.microsoft.sqlserver.jdbc.SQLServerDriver
+spring.datasource.url=jdbc:sqlserver://db;databaseName=master
+spring.datasource.username=sa
+spring.datasource.password=z!oBx1ab
